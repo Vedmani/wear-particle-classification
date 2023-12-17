@@ -34,3 +34,9 @@ This project uses the following tools:
 
 # Draft of the paper:
 [**A Comparative Study of Convolutional Neural Network Architectures for Ferrograph Image Classification**](A_Comparative_Study_of_Convolutional_Neural_Network_Architectures_for_Ferrograph_Image_Classification.pdf)
+
+# Dataset
+I am not sure if I can share the dataset. If anyone is interested in the dataset, please contact me at
+
+# Further Work
+- I will prepare and share a detailed WandB report of this project soon.
